@@ -5,20 +5,21 @@ The card payments data is published by the Reserve Bank of India on a monthly ba
 Content
 The data contains monthly statistics of the following information from Apr'2011 to Aug'2019
 
-Number of ATM deployed on site by the bank.
-Number of ATM deployed off site by the bank.
-Number of POS deployed online by the bank
-Number of POS deployed offline by the bank
-Total number of credit cards issued outstanding (after adjusting the number of cards withdrawan/cancelled).
-Total number of financial transactions done by the credit card issued by the bank at ATMs
-Total number of financial transactions done by the credit card issued by the bank at POS terminals
-Total value of financial transactions done by the credit card issued by the bank at ATMs
-Total value of financial transactions done by the credit card issued by the bank at POS terminals.
-Total number of debit cards issued outstanding (after adjusting the number of cards withdrawan/cancelled).
-Total number of financial transactions done by the debit card issued by the bank at ATMs
-Total number of financial transactions done by the debit card issued by the bank at POS terminals
-Total value of financial transactions done by the debit card issued by the bank at ATMs
-Total value of financial transactions done by the debit card issued by the bank at POS terminals.
+1)Number of ATM deployed on site by the bank.
+2)Number of ATM deployed off site by the bank.
+3)Number of POS deployed online by the bank
+4)Number of POS deployed offline by the bank
+5)Total number of credit cards issued outstanding (after adjusting the number of cards withdrawan/cancelled).
+6)Total number of financial transactions done by the credit card issued by the bank at ATMs
+7)Total number of financial transactions done by the credit card issued by the bank at POS terminals
+8)Total value of financial transactions done by the credit card issued by the bank at ATMs
+9)Total value of financial transactions done by the credit card issued by the bank at POS terminals.
+10)Total number of debit cards issued outstanding (after adjusting the number of cards withdrawan/cancelled).
+11)Total number of financial transactions done by the debit card issued by the bank at ATMs
+12)Total number of financial transactions done by the debit card issued by the bank at POS terminals
+13)Total value of financial transactions done by the debit card issued by the bank at ATMs
+14)Total value of financial transactions done by the debit card issued by the bank at POS terminals.
+
 Acknowledgements
 The data is scraped from RBI monthly statistics
 https://www.rbi.org.in/scripts/ATMView.aspx
